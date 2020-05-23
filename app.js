@@ -8,7 +8,7 @@ var financeController = (function () {})();
 var appController = (function (uiController, financeController) {
   var ctrlAddItem = function () {
     // 1. Оруулах өгөгдлийг дэлгэцнээс олж авна.
-    console.log();
+    console.log("Дэлгэцнээс өгөдлөө авах хэсэг");
     // 2. Олж авсан өгөдлүүдээ санхүүгийн контроллерт дамжуулж тэнд хадгална.
     // 3. Олж авсан өгөгдлүүдээ веб дээрээ тохирох хэсэгт нь гаргана.
     // 4. Төсвийг тооцоолно.
